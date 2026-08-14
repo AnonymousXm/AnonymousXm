@@ -1,80 +1,114 @@
-# $t3alth_0x
+# `$t3alth_0x`
 
-### Cybersecurity | Offensive Security | Cloud Security | OSINT
+### Cybersecurity • Offensive Security • Cloud Security • OSINT
 
 Cybersecurity practitioner focused on offensive security, cloud security, OSINT, incident response, cryptography, GRC & compliance, and security automation.
 
-> Building, breaking, investigating, and securing systems.
+> **Learn how systems work. Learn how they fail. Then learn how to secure them.**
 
 ---
 
 ## 🛡️ Security Domains
 
-### Offensive Security
-- Penetration Testing / VAPT
-- Web Application Security
-- API Security
-- Reconnaissance & Enumeration
-- Vulnerability Assessment
-
-### Defensive & Governance
-- Incident Response
-- OSINT
-- GRC & Compliance
-- Security Risk Assessment
-
-### Cloud & Identity
-- AWS IAM
-- Cloud Security
-- Identity & Access Management
-- Terraform
-- Least-Privilege Security
+| Offensive Security           | Defensive & Governance   | Cloud & Identity             |
+| ---------------------------- | ------------------------ | ---------------------------- |
+| Penetration Testing / VAPT   | Incident Response        | AWS IAM                      |
+| Web Application Security     | OSINT                    | Cloud Security               |
+| API Security                 | GRC & Compliance         | Identity & Access Management |
+| Reconnaissance & Enumeration | Security Risk Assessment | Least-Privilege Security     |
+| Vulnerability Assessment     | Security Documentation   | Terraform                    |
 
 ### Security Foundations
-- Cryptography
-- Network Security
-- Linux Security
-- Security Automation
+
+`Cryptography` `Network Security` `Linux Security` `Security Automation`
 
 ---
 
-## 💻 Technical Skills
+## 💻 Technical Stack
 
-`Python` `Bash` `Linux` `Git` `Terraform` `Docker` `SQL` `REST APIs`
+### Languages & Development
 
-## 🔧 Security Tooling
+`Python` `Bash` `SQL` `JSON` `REST APIs`
+
+### Platforms & Infrastructure
+
+`Linux` `Git` `GitHub` `Docker` `Terraform` `AWS`
+
+### Security Tooling
 
 `Burp Suite` `Nmap` `Wireshark` `BloodHound` `Metasploit` `Gobuster` `Kali Linux`
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 🔐 Cloud & IAM Security
-Building IAM analysis tooling, permission evaluation models, and least-privilege remediation workflows.
+### 🔐 AWS IAM Security Review
 
-### 🌐 Web & API Security
-Hands-on security testing, vulnerability discovery, and application/API assessment.
+**[aws-iam-effective-permission-review](https://github.com/AnonymousXm/aws-iam-effective-permission-review)**
 
-### 🔎 OSINT & Reconnaissance
-Information gathering, enumeration, attack-surface discovery, and research.
+Security tooling focused on IAM effective-permission evaluation, deny handling, PassRole analysis, automated testing, and least-privilege Terraform remediation.
 
-### 🚨 Incident Response
+### 🧪 Security Tooling
+
+**[-t3alth_0x](https://github.com/AnonymousXm/-t3alth_0x)**
+
+A security-focused workspace covering reconnaissance, offensive-security experimentation, and cybersecurity tooling.
+
+---
+
+## 🔎 Areas of Practice
+
+### Offensive Security
+
+Web and API security testing, reconnaissance, enumeration, vulnerability assessment, and VAPT workflows.
+
+### OSINT & Reconnaissance
+
+Information gathering, attack-surface discovery, enumeration, and security research.
+
+### Incident Response
+
 Security investigation, triage, evidence analysis, and incident-handling workflows.
 
-### 🏛️ GRC & Compliance
-Risk assessment, security controls, governance, and compliance-oriented security work.
+### Cryptography
+
+Applied cryptography concepts, secure design principles, and foundational cryptographic analysis.
+
+### GRC & Compliance
+
+Security governance, risk assessment, controls, compliance, and security documentation.
+
+### Cloud Security
+
+AWS IAM, identity and access management, least privilege, infrastructure security, and Terraform-based security controls.
+
+---
+
+## 🎓 Training & Experience
+
+* Cybersecurity Internship — Ubuntu Bridge Initiatives
+* SOC / Incident Response experience
+* Penetration Testing training
+* TryHackMe security learning
+* Cybersecurity-focused academic training
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced AWS Security
-- IAM Attack-Path Analysis
-- Cloud Security Engineering
-- Active Directory Security
-- Security Automation with Python
-- Advanced Penetration Testing
+```text
+Advanced AWS Security
+        ↓
+IAM Attack-Path Analysis
+        ↓
+Cloud Security Engineering
+        ↓
+Active Directory Security
+        ↓
+Security Automation with Python
+        ↓
+Advanced Penetration Testing
+```
 
 ---
 
@@ -96,12 +130,28 @@ Recon & OSINT
 VAPT / Exploitation
     ↓
 Cloud & IAM Security
+```
 
+---
 
-🎓 Training & Experience
-Cybersecurity Internship — Ubuntu Bridge Initiatives
-SOC / Incident Response experience
-Penetration Testing training
-TryHackMe security learning
-Cybersecurity-focused academic training
+## 🌍 About Me
 
+📍 Africa
+💼 Cybersecurity Intern
+🎯 Aspiring Penetration Tester / Security Engineer
+
+I'm interested in building practical security tooling, understanding how real-world systems fail, and developing the skills needed to assess and defend modern infrastructure.
+
+---
+
+## 📫 Connect
+
+**GitHub:** [@AnonymousXm](https://github.com/AnonymousXm)
+
+---
+
+### ⚡ Philosophy
+
+> **Build. Break. Investigate. Secure.**
+
+*Always learning. Always testing. Always improving.*
