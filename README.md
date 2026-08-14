@@ -40,19 +40,19 @@ Cybersecurity practitioner focused on offensive security, cloud security, OSINT,
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 ### 🔐 AWS IAM Security Review
 
-**[aws-iam-effective-permission-review](https://github.com/AnonymousXm/aws-iam-effective-permission-review)**
+[**aws-iam-effective-permission-review**](https://github.com/AnonymousXm/aws-iam-effective-permission-review)
 
-Security tooling focused on IAM effective-permission evaluation, deny handling, PassRole analysis, automated testing, and least-privilege Terraform remediation.
+IAM permission evaluation, deny handling, PassRole analysis, automated testing, and least-privilege Terraform remediation.
 
 ### 🧪 Security Tooling
 
-**[-t3alth_0x](https://github.com/AnonymousXm/-t3alth_0x)**
+[**-t3alth_0x**](https://github.com/AnonymousXm/-t3alth_0x)
 
-A security-focused workspace covering reconnaissance, offensive-security experimentation, and cybersecurity tooling.
+Security-focused experimentation across reconnaissance, offensive security, and cybersecurity tooling.
 
 ---
 
