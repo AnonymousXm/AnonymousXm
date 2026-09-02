@@ -1,42 +1,26 @@
 # `$t3alth_0x`
 
-### Cybersecurity • Offensive Security • Cloud Security • OSINT
+### Cybersecurity • Web & API Security • Cloud/IAM
 
-Cybersecurity practitioner focused on offensive security, cloud security, OSINT, incident response, cryptography, GRC & compliance, and security automation.
+Cybersecurity practitioner focused on **web application security, API security, cloud/IAM security, penetration testing, and security automation**.
 
-> **Learn how systems work. Learn how they fail. Then learn how to secure them.**
+> **Understand the system. Find the weakness. Prove the impact. Secure it.**
 
 ---
 
-## 🛡️ Security Domains
+## 🛡️ Focus Areas
 
-| Offensive Security           | Defensive & Governance   | Cloud & Identity             |
-| ---------------------------- | ------------------------ | ---------------------------- |
-| Penetration Testing / VAPT   | Incident Response        | AWS IAM                      |
-| Web Application Security     | OSINT                    | Cloud Security               |
-| API Security                 | GRC & Compliance         | Identity & Access Management |
-| Reconnaissance & Enumeration | Security Risk Assessment | Least-Privilege Security     |
-| Vulnerability Assessment     | Security Documentation   | Terraform                    |
-
-### Security Foundations
-
-`Cryptography` `Network Security` `Linux Security` `Security Automation`
+`Web Application Security` `API Security` `Penetration Testing`
+`Reconnaissance` `Authorization & Access Control` `AWS IAM`
+`Cloud Security` `Security Automation` `Incident Response`
 
 ---
 
 ## 💻 Technical Stack
 
-### Languages & Development
-
-`Python` `Bash` `SQL` `JSON` `REST APIs`
-
-### Platforms & Infrastructure
-
-`Linux` `Git` `GitHub` `Docker` `Terraform` `AWS`
-
-### Security Tooling
-
-`Burp Suite` `Nmap` `Wireshark` `BloodHound` `Metasploit` `Gobuster` `Kali Linux`
+**Languages:** `Python` `Bash` `SQL` `JSON`
+**Security:** `Burp Suite` `Nmap` `Wireshark` `BloodHound` `Metasploit` `Gobuster`
+**Cloud & Infrastructure:** `AWS` `Terraform` `Docker` `Linux` `Git`
 
 ---
 
@@ -46,101 +30,41 @@ Cybersecurity practitioner focused on offensive security, cloud security, OSINT,
 
 [**aws-iam-effective-permission-review**](https://github.com/AnonymousXm/aws-iam-effective-permission-review)
 
-IAM permission evaluation, deny handling, PassRole analysis, automated testing, and least-privilege Terraform remediation.
+Security-focused IAM analysis covering **effective permissions, explicit denies, `PassRole`, least privilege, automated checks, and Terraform remediation**.
 
-### 🧪 Security Tooling
+### 🧪 Security Research & Tooling
 
 [**-t3alth_0x**](https://github.com/AnonymousXm/-t3alth_0x)
 
-Security-focused experimentation across reconnaissance, offensive security, and cybersecurity tooling.
+Hands-on security experimentation covering **reconnaissance, web/API testing, offensive security techniques, and security tooling**.
 
 ---
 
-## 🔎 Areas of Practice
-
-### Offensive Security
-
-Web and API security testing, reconnaissance, enumeration, vulnerability assessment, and VAPT workflows.
-
-### OSINT & Reconnaissance
-
-Information gathering, attack-surface discovery, enumeration, and security research.
-
-### Incident Response
-
-Security investigation, triage, evidence analysis, and incident-handling workflows.
-
-### Cryptography
-
-Applied cryptography concepts, secure design principles, and foundational cryptographic analysis.
-
-### GRC & Compliance
-
-Security governance, risk assessment, controls, compliance, and security documentation.
-
-### Cloud Security
-
-AWS IAM, identity and access management, least privilege, infrastructure security, and Terraform-based security controls.
-
----
-
-## 🎓 Training & Experience
+## 🎓 Experience & Training
 
 * Cybersecurity Internship — Ubuntu Bridge Initiatives
-* SOC / Incident Response experience
-* Penetration Testing training
-* TryHackMe security learning
-* Cybersecurity-focused academic training
+* SOC / Incident Response Experience
+* Penetration Testing Training
+* TryHackMe Security Labs
+* Cloud & IAM Security Projects
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-Advanced AWS Security
-        ↓
-IAM Attack-Path Analysis
-        ↓
-Cloud Security Engineering
-        ↓
-Active Directory Security
-        ↓
-Security Automation with Python
-        ↓
-Advanced Penetration Testing
-```
+`Advanced AWS Security`
+`IAM Attack-Path Analysis`
+`Active Directory Security`
+`Python Security Automation`
+`Advanced Web/API Pentesting`
 
 ---
 
-## 🏆 Cybersecurity Journey
+## 🎯 Career Focus
 
-```text
-Foundations
-    ↓
-Cryptography
-    ↓
-Web Application Security
-    ↓
-Incident Response
-    ↓
-GRC & Risk
-    ↓
-Recon & OSINT
-    ↓
-VAPT / Exploitation
-    ↓
-Cloud & IAM Security
-```
+Building practical experience in **offensive security and cloud security**, with a long-term focus on **penetration testing and security engineering**.
 
----
-
-## 🌍 About Me
-
-📍 Africa
-💼 Cybersecurity Intern
-🎯 Aspiring Penetration Tester / Security Engineer
-
-I'm interested in building practical security tooling, understanding how real-world systems fail, and developing the skills needed to assess and defend modern infrastructure.
+I enjoy breaking down real systems, understanding how security controls work, and building tools that make security testing more effective.
 
 ---
 
@@ -150,8 +74,4 @@ I'm interested in building practical security tooling, understanding how real-wo
 
 ---
 
-### ⚡ Philosophy
-
 > **Build. Break. Investigate. Secure.**
-
-*Always learning. Always testing. Always improving.*
