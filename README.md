@@ -1,77 +1,24 @@
-# `$t3alth_0x`
+# 🚧 REPOSITORY UNDER MAINTENANCE
 
-### Cybersecurity • Web & API Security • Cloud/IAM
+> **Status: Temporarily undergoing updates**
 
-Cybersecurity practitioner focused on **web application security, API security, cloud/IAM security, penetration testing, and security automation**.
+This repository is currently being reviewed, reorganized, and updated to improve its code quality, documentation, structure, and overall usability.
 
-> **Understand the system. Find the weakness. Prove the impact. Secure it.**
+I'm working on refining the project and preparing an improved version. Some content may be incomplete or temporarily outdated during this process.
 
----
+### What's happening?
 
-## 🛡️ Focus Areas
+- Updating and reviewing existing code
+- Improving documentation and usage instructions
+- Refining project structure and implementation
+- Reviewing examples, testing, and technical accuracy
 
-`Web Application Security` `API Security` `Penetration Testing`
-`Reconnaissance` `Authorization & Access Control` `AWS IAM`
-`Cloud Security` `Security Automation` `Incident Response`
+### For now
 
----
+Please consider the current contents a work in progress. Check back for updates as development continues.
 
-## 💻 Technical Stack
-
-**Languages:** `Python` `Bash` `SQL` `JSON`
-**Security:** `Burp Suite` `Nmap` `Wireshark` `BloodHound` `Metasploit` `Gobuster`
-**Cloud & Infrastructure:** `AWS` `Terraform` `Docker` `Linux` `Git`
+**Maintained by:** (https://github.com/AnonymousXm) · `st3alth.0x`
 
 ---
 
-## 🚀 Featured Work
-
-### 🔐 AWS IAM Security Review
-
-[**aws-iam-effective-permission-review**](https://github.com/AnonymousXm/aws-iam-effective-permission-review)
-
-Security-focused IAM analysis covering **effective permissions, explicit denies, `PassRole`, least privilege, automated checks, and Terraform remediation**.
-
-### 🧪 Security Research & Tooling
-
-[**-t3alth_0x**](https://github.com/AnonymousXm/-t3alth_0x)
-
-Hands-on security experimentation covering **reconnaissance, web/API testing, offensive security techniques, and security tooling**.
-
----
-
-## 🎓 Experience & Training
-
-* Cybersecurity Internship — Ubuntu Bridge Initiatives
-* SOC / Incident Response Experience
-* Penetration Testing Training
-* TryHackMe Security Labs
-* Cloud & IAM Security Projects
-
----
-
-## 📚 Currently Learning
-
-`Advanced AWS Security`
-`IAM Attack-Path Analysis`
-`Active Directory Security`
-`Python Security Automation`
-`Advanced Web/API Pentesting`
-
----
-
-## 🎯 Career Focus
-
-Building practical experience in **offensive security and cloud security**, with a long-term focus on **penetration testing and security engineering**.
-
-I enjoy breaking down real systems, understanding how security controls work, and building tools that make security testing more effective.
-
----
-
-## 📫 Connect
-
-**GitHub:** [@AnonymousXm](https://github.com/AnonymousXm)
-
----
-
-> **Build. Break. Investigate. Secure.**
+*Thanks for your patience while this repository is being improved.*
